@@ -20,11 +20,9 @@
 
 ---
 
-
-<h3 align="center">✨ Languages Analysis  ✨</h3>
-
+<h3 align="center">✨  My Most Used Languages  ✨</h3>
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/kybcod/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kybcod&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 </div>
@@ -32,15 +30,20 @@
 
 ---
 
-<h3 align="center">🌈 Contact 🌈</h3>
+<h3 align="center">🌈 Follow Me 🌈</h3>
 <div align="center">
   <a href="https://velog.io/@kpo12345">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
 </div>
-<div align='center'>
-  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=kpo12345&color=white">
+
+<div align="center" style="text-align:center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kpo12345)](https://velog.io/@kpo12345)  
+  
 </div>
+
+
 
 
 
