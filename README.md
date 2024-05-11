@@ -37,7 +37,8 @@
   <a href="https://velog.io/@kpo12345">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kpo12345)](https://velog.io/@kpo12345)
 </div>
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kpo12345)](https://velog.io/@kpo12345)
+
