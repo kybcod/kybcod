@@ -35,11 +35,11 @@
 <h3 align="center">🌈 Contact 🌈</h3>
 <div align="center">
   <a href="https://velog.io/@kpo12345">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
 </div>
-<div align="center">
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kpo12345)](https://velog.io/@kpo12345)
+<div align='center'>
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=kpo12345&color=white">
 </div>
 
 
