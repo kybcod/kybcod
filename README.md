@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20to%20ybk's%20GitHub%20😁&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-
-
 <!--내용 부분-->
 <h3 align="center">🎈 Tech Stack 🎈 </h3>
 <div align="center">
@@ -16,7 +14,6 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  
 </div>
 
 ---
