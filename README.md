@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20to%20ybk's%20GitHub%20😁&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20to%20ybk's%20GitHub%20😊&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <!--내용 부분-->
 <h3 align="center">🎈 Tech Stack 🎈 </h3>
